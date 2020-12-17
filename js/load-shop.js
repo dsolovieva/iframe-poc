@@ -130,5 +130,5 @@ setTimeout(() => {
       <!-- card end -->
     </div>
     `;
-  document.body.append(container);
+  // document.body.append(container);
 }, 2000);
